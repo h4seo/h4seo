@@ -18,7 +18,7 @@
   <img align="center" alt="icon-Cumber" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="icon-Rb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="icon-SL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="icon-LKD" height="30" width="30" src="https://www.linkedin.com/in/thiagof-j">
+  <img align="center" alt="icon-LKD" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   <img align="center" alt="icon-discord" height="30" width="30" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg">
 <!--   <img align="center" alt="icon-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
 </div>
